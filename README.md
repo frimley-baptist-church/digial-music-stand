@@ -15,4 +15,6 @@ DMS is built using the [Svelte](https://svelte.dev/) web framework. The _viewer_
 
 ### Why use a Raspberry Pi?
 
-Well, because we can! Seriously, it's a cheap computer, ideal for this single-use task.
+Well, because we can! Seriously, it's a cheap computer, ideal for this kind of work. The Raspberry Pi is so compact you can attach it to the back of a monitor using velcro, and have a relatively self-contained setup.
+
+Once our project is up and running, we'll add some photos here.
